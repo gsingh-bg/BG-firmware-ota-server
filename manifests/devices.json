@@ -1,6 +1,6 @@
 {
   "1C:9D:C2:63:22:44": {
-      "RA path": "firmware/RA/BGC_LCD_test.bin.signed"
-      "STM32 path": "firmware/STM32/BG2.0_TESTBENCH.bin"
+      "ra_path": "firmware/RA/BGC_LCD_test.bin.signed"
+      "stm_path": "firmware/STM32/BG2.0_TESTBENCH.bin"
     }
   }
