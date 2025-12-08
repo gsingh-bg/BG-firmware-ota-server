@@ -1,0 +1,15 @@
+{
+  "AA:BB:CC:DD:EE:FF": {
+    "device_name": "DockTester_01",
+    "ra_target": {
+      "project": "BGC_LCD_test",
+      "version": "1.0.0",
+      "path": "firmware/RA/BGC_LCD_test/v1.0.0/ra_bgclcd_v1.0.0.bin.signed"
+    },
+    "stm32_target": {
+      "project": "BGC_IVR_test",
+      "version": "1.0.0",
+      "path": "firmware/STM32/BGC_IVR_test/v1.0.0/stm32_ivr_v1.0.0.bin"
+    }
+  }
+}
