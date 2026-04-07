@@ -3,4 +3,7 @@
       "ra_path": "firmware/RA/BGC_LCD_test.bin.signed",
       "stm32_path": "firmware/STM32/BG2.0_TESTBENCH.bin"
     }
+   "1C:9D:C2:63:22:A4": {
+      "ra_path": "firmware/RA/BGC_LCD_test.bin.signed"
+   }
   }
